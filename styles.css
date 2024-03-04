@@ -1,5 +1,19 @@
 /* Write your CSS here! */
 
+#mainHeading{
+    color: blueviolet;
+    font-size: 36px;
+    text-align: center;
+    border-bottom: 3px black;
+}
+
+.funParagraph{
+    color: silver;
+    font-style: oblique;
+    font-weight: 900;
+    text-decoration: wavy;
+}
+
 body {
     margin: 8px;
     display: block;
